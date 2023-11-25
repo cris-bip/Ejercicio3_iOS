@@ -13,6 +13,7 @@
 		C2CE76462B1178FD00875272 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2CE76442B1178FD00875272 /* Main.storyboard */; };
 		C2CE76482B11790300875272 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2CE76472B11790300875272 /* Assets.xcassets */; };
 		C2CE764B2B11790300875272 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2CE76492B11790300875272 /* LaunchScreen.storyboard */; };
+		C2CE76532B11793F00875272 /* SocialButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CE76522B11793F00875272 /* SocialButtonsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C2CE76472B11790300875272 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2CE764A2B11790300875272 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2CE764C2B11790300875272 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2CE76522B11793F00875272 /* SocialButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialButtonsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C2CE76472B11790300875272 /* Assets.xcassets */,
 				C2CE76492B11790300875272 /* LaunchScreen.storyboard */,
 				C2CE764C2B11790300875272 /* Info.plist */,
+				C2CE76522B11793F00875272 /* SocialButtonsView.swift */,
 			);
 			path = SocialButtons;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				C2CE76432B1178FD00875272 /* ViewController.swift in Sources */,
 				C2CE763F2B1178FD00875272 /* AppDelegate.swift in Sources */,
 				C2CE76412B1178FD00875272 /* SceneDelegate.swift in Sources */,
+				C2CE76532B11793F00875272 /* SocialButtonsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
